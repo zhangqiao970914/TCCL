@@ -1,2 +1,2 @@
 # DTCCL
-Dual Swin Transformer drives cross-modal consensus learning network for RGB-D Co-Salient Object Detection
+Dual Swin Transformer drives Cross-modal Consensus Learning Network for RGB-D Co-Salient Object Detection
